@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 - [X] User can **compose and post a new tweet**
   - [X] User can click a “Compose” icon in the Action Bar on the top right
   - [X] User can then enter a new tweet and post this to twitter
-  - X ] User is taken back to home timeline with **new tweet visible** in timeline
+  - [X] User is taken back to home timeline with **new tweet visible** in timeline
   - [X] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
   - [X] User can **see a counter with total number of characters left for tweet** on compose tweet page
 
@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ZetaL0519/SimpleTweet/blob/7f1bdbd64a34ed9b99f01a8ecd4b84bd4ef03482/walkthroughHW4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
